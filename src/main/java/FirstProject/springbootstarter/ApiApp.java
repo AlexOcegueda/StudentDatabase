@@ -1,4 +1,4 @@
-package firstproject.springbootstarter;
+package FirstProject.springbootstarter;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
@@ -10,7 +10,6 @@ public class ApiApp {
     public static void main(String[] args) {
         // this is setting this class as your starting point
         SpringApplication.run(ApiApp.class, args);
-
 
     }
 }
